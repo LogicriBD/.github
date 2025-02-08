@@ -25,11 +25,9 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LogicriBD&show_icons=true&theme=radical" alt="Logicri GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicriBD&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://img.shields.io/github/stars/logicri?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/logicri?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/repos/logicri?style=social" alt="Total Repositories"/>
 </p>
 
 <!-- ### Popular Repositories
