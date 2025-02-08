@@ -1,7 +1,7 @@
 # Logicri
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello!+Welcome+to+LogicriBD+GitHub" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=%20%20Hello!+Welcome+to+LogicriBD+GitHub" />
 </h1>
 
 <h3 align="center">A forward-thinking software development company dedicated to crafting innovative solutions that drive business success. Our mission is to solve complex challenges with tailored software, enhancing operational efficiency and fostering growth.</h3>
@@ -11,6 +11,7 @@
 </p>
 <br/>
 <hr/>
+
 ## Founders
 
 **Mirza Mohammad Azwad**
@@ -31,6 +32,7 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 <br/>
 
 <hr/>
+
 ## GitHub Statistics
 
 <p align="center">
