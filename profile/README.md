@@ -27,7 +27,6 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 <p align="center">
   <img src="https://img.shields.io/github/stars/logicri?style=social" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/logicri?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/repos/logicri?style=social" alt="Total Repositories"/>
 </p>
 
 <!-- ### Popular Repositories
