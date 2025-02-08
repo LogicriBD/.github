@@ -15,11 +15,11 @@
 
 ## Founders
 
-| ![Mirza Mohammad Azwad](/assets/Azwad.jpeg)                                                     | ![A. Z. Hasnain Kabir](/assets/Nibir.jpeg)                                                  |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Mirza Mohammad Azwad**                                                                        | **A. Z. Hasnain Kabir**                                                                     |
-| **GitHub**: [mirzaazad](https://github.com/mirzaazad)                                           | **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          |
-| **LinkedIn**: [Mirza Mohammad Azwad](https://bd.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4) | **LinkedIn**: [A. Z. Hasnain Kabir](https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216) |
+| ![A. Z. Hasnain Kabir](/assets/Nibir.png)                                                   | ![Mirza Mohammad Azwad](/assets/Azwad.png)                                                      |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **A. Z. Hasnain Kabir**                                                                     | **Mirza Mohammad Azwad**                                                                        |
+| **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          | **GitHub**: [mirzaazad](https://github.com/mirzaazad)                                           |
+| **LinkedIn**: [A. Z. Hasnain Kabir](https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216) | **LinkedIn**: [Mirza Mohammad Azwad](https://bd.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4) |
 
 <br/>
 <hr/>
