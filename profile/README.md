@@ -15,20 +15,11 @@
 
 ## Founders
 
-<div style="width:100%;display:flex;flex-direction:row;gap:20px;">
-  <div style="flex:1;padding:20px;border-radius:10px;box-shadow:0px 4px 6px rgba(0,0,0,0.1);border:1px solid #ddd;text-align:center;">
-    <img src="/assets/Azwad.jpeg" alt="Mirza Mohammad Azwad" style="width:100px;height:100px;border-radius:50%;display:block;margin:0 auto;">
-    <h2>Mirza Mohammad Azwad</h2>
-    <p><strong>GitHub</strong>: <a href="https://github.com/mirzaazad">mirzaazad</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://bd.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4">Mirza Mohammad Azwad</a></p>
-  </div>
-  <div style="flex:1;padding:20px;border-radius:10px;box-shadow:0px 4px 6px rgba(0,0,0,0.1);border:1px solid #ddd;text-align:center;">
-    <img src="/assets/Nibir.jpeg" alt="A. Z. Hasnain Kabir" style="width:100px;height:100px;border-radius:50%;display:block;margin:0 auto;">
-    <h2>A. Z. Hasnain Kabir</h2>
-    <p><strong>GitHub</strong>: <a href="https://github.com/HasnainKabir-repos">hasnain-kabir</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216">A. Z. Hasnain Kabir</a></p>
-  </div>
-</div>
+| ![Mirza Mohammad Azwad](/assets/Azwad.jpeg)                                                     | ![A. Z. Hasnain Kabir](/assets/Nibir.jpeg)                                                  |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Mirza Mohammad Azwad**                                                                        | **A. Z. Hasnain Kabir**                                                                     |
+| **GitHub**: [mirzaazad](https://github.com/mirzaazad)                                           | **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          |
+| **LinkedIn**: [Mirza Mohammad Azwad](https://bd.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4) | **LinkedIn**: [A. Z. Hasnain Kabir](https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216) |
 
 <br/>
 <hr/>
