@@ -56,7 +56,7 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 | Project                   | Description                                                                    | URL                                                 | API Docs                                                |
 | ------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
 | **USMLEbros**             | A web application for a client abroad, built using Next.js and Firebase.       | [www.usmlebros.com](https://www.usmlebros.com)      | N/A                                                     |
-| **Dummy SMS Application** | An internal test application with an SMS portal and backend API documentation. | [Portal](https://dummy-sms-portal.vercel.app/login) | [API Docs](https://dummy-sms-api.onrender.com/api-docs) |
+| **Dummy SMS Application** | An internal test application with an SMS portal and backend API documentation. | [https://dummy-sms-portal.vercel.app](https://dummy-sms-portal.vercel.app) | [https://dummy-sms-api.onrender.com/api-docs](https://dummy-sms-api.onrender.com/api-docs) |
 
 <!-- ### Popular Repositories
 
