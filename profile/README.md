@@ -25,11 +25,11 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicri&show_icons=true&theme=radical" alt="Logicri GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LogicriBD&show_icons=true&theme=radical" alt="Logicri GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicri&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicriBD&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <!-- ### Popular Repositories
@@ -54,10 +54,11 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
    - **Forks**: ![GitHub forks](https://img.shields.io/github/forks/logicri/gamma-api?style=social)
    - **Repository**: [Link](https://github.com/logicri/gamma-api) -->
 
-For a complete overview of our projects, visit our GitHub organization page: [Logicri on GitHub](https://github.com/LogicriBD).
+For a complete overview of our projects, visit our GitHub organization page: [Logicri on GitHub](https://github.com/orgs/LogicriBD/repositories).
 
 ## Contact Us
 
-We are eager to collaborate and bring your ideas to life. Reach out to us through our website or connect with our founders on LinkedIn.
+We are eager to collaborate and bring your ideas to life. Reach out to us through our website or connect with our founders on LinkedIn. You can also send an email at
+[hasnain@robustechbd.com](hasnain@robustechbd.com)
 
 ---
