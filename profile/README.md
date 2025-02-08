@@ -1,11 +1,16 @@
 # Logicri
 
-Welcome to **Logicri**, a forward-thinking software development company dedicated to crafting innovative solutions that drive business success. Our mission is to solve complex challenges with tailored software, enhancing operational efficiency and fostering growth.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello!+Welcome+to+LogicriBD+GitHub" />
+</h1>
+
+<h3 align="center">A forward-thinking software development company dedicated to crafting innovative solutions that drive business success. Our mission is to solve complex challenges with tailored software, enhancing operational efficiency and fostering growth.</h3>
 
 <p align="center">
   <img src="/assets/favicon.ico" alt="Logicri Logo" width="200"/>
 </p>
-
+<br/>
+<hr/>
 ## Founders
 
 **Mirza Mohammad Azwad**
@@ -17,17 +22,32 @@ Welcome to **Logicri**, a forward-thinking software development company dedicate
 
 - **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)
 - **LinkedIn**: [A. Z. Hasnain Kabir](https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216)
+<br/>
+<hr/>
 
 ## Website
 
 Explore our services and projects at **[www.logicri.net](https://www.logicri.net/)**.
+<br/>
 
+<hr/>
 ## GitHub Statistics
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/logicri?style=social" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/logicri?style=social" alt="GitHub Followers"/>
 </p>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,tensorflow,pytorch,nodejs,react,spring,jest,nextjs,express,git" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,github,bitbucket,java,js,python,cpp,c,cs,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,php,bash,git,postgresql,mysql,mongodb,vscode,visualstudio,idea" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <!-- ### Popular Repositories
 
