@@ -1,14 +1,15 @@
+<p align="center">
+  <img src="/assets/favicon.ico" alt="Logicri Logo" width="200"/>
+</p>
+
 # Logicri
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=%20%20Hello!+Welcome+to+LogicriBD+GitHub" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello!;Welcome+to+LogicriBD" />
 </h1>
 
 <h3 align="center">A forward-thinking software development company dedicated to crafting innovative solutions that drive business success. Our mission is to solve complex challenges with tailored software, enhancing operational efficiency and fostering growth.</h3>
 
-<p align="center">
-  <img src="/assets/favicon.ico" alt="Logicri Logo" width="200"/>
-</p>
 <br/>
 <hr/>
 
