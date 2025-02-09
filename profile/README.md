@@ -18,7 +18,7 @@
 | ![A. Z. Hasnain Kabir](/assets/Nibir.png)                                                   | ![Mirza Mohammad Azwad](/assets/Azwad.png)                                                      |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **A. Z. Hasnain Kabir**                                                                     | **Mirza Mohammad Azwad**                                                                        |
-| **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          | **GitHub**: [mirzaazad](https://github.com/mirzaazad)                                           |
+| **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          | **GitHub**: [mirzaazwad](https://github.com/mirzaazwad)                                         |
 | **LinkedIn**: [A. Z. Hasnain Kabir](https://bd.linkedin.com/in/a-z-hasnain-kabir-632495216) | **LinkedIn**: [Mirza Mohammad Azwad](https://bd.linkedin.com/in/mirza-mohammad-azwad-b5239b1a4) |
 
 <br/>
@@ -53,9 +53,9 @@ Explore our services and projects at **[www.logicri.net](https://www.logicri.net
 
 ## Projects
 
-| Project                   | Description                                                                    | URL                                                 | API Docs                                                |
-| ------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
-| **USMLEbros**             | A web application for a client abroad, built using Next.js and Firebase.       | [www.usmlebros.com](https://www.usmlebros.com)      | N/A                                                     |
+| Project                   | Description                                                                    | URL                                                                        | API Docs                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **USMLEbros**             | A web application for a client abroad, built using Next.js and Firebase.       | [www.usmlebros.com](https://www.usmlebros.com)                             | N/A                                                                                        |
 | **Dummy SMS Application** | An internal test application with an SMS portal and backend API documentation. | [https://dummy-sms-portal.vercel.app](https://dummy-sms-portal.vercel.app) | [https://dummy-sms-api.onrender.com/api-docs](https://dummy-sms-api.onrender.com/api-docs) |
 
 <!-- ### Popular Repositories
