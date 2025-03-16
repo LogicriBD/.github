@@ -15,7 +15,7 @@
 
 ## Founders
 
-| <img src="/assets/nibir.jpg" width="200" height="200">                                      | <img src="/assets/azwad.png" width="200" height="200">                                          |
+| <img src="/assets/nibir.jpg" width="300" height="300">                                      | <img src="/assets/azwad.png" width="300" height="300">                                          |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **A. Z. Hasnain Kabir**                                                                     | **Mirza Mohammad Azwad**                                                                        |
 | **GitHub**: [hasnain-kabir](https://github.com/HasnainKabir-repos)                          | **GitHub**: [mirzaazwad](https://github.com/mirzaazwad)                                         |
